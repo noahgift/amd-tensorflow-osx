@@ -1,2 +1,6 @@
 # amd-tensorflow-osx
-Experiments with AMD and Tensorflow on OS X
+Experiments with AMD, Metal, Turicreate and Tensorflow on OS X
+
+## Multi-GPU
+
+

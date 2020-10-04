@@ -1,0 +1,5 @@
+#tensorflow-rocm --install-option="--upgrade"
+turicreate
+jupyter
+click
+black
