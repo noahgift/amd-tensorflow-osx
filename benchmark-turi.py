@@ -13,6 +13,9 @@ def load_data(workers = 32):
     print(f"Completed in {time.time()-start}")
 
 def train_gpus():
+    ####disable GPU:  Note, Massively slower
+    #print("Disabling GPU")
+    #tc.config.set_num_gpus(0)
     start = time.time()
     print("Starting Training")
     # Load the data
