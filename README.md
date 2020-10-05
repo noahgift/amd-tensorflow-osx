@@ -40,3 +40,7 @@ Screenshot of increased time to train model.  Approximately 20 Minutes on a 32 C
 
 ![Screen Shot 2020-10-04 at 8 00 12 PM](https://user-images.githubusercontent.com/58792/95030227-4186d980-067c-11eb-9189-fcf58710ec33.png)
 
+
+### Export Coreml to Tensorflow?
+
+Use ONNX Tools:  https://github.com/onnx/onnxmltools
