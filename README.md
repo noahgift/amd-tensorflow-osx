@@ -3,6 +3,10 @@ Experiments with AMD, Metal, Turicreate, Create ML, and Tensorflow on OS X
 
 ## Create ML with XCode
 
+The Metal GPU management is very efficient in XCode
+
+![Screen Shot 2020-10-04 at 11 23 07 PM](https://user-images.githubusercontent.com/58792/95037384-d697cb80-0698-11eb-97dc-bb5753310ae5.png)
+<img width="960" alt="Screen Shot 2020-10-04 at 11 23 14 PM" src="https://user-images.githubusercontent.com/58792/95037386-d7306200-0698-11eb-9186-2d3c04667518.png">
 
 
 ## Multi-GPU
